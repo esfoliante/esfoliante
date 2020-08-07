@@ -17,4 +17,4 @@ I would love to do something cute for my portfolio but I am not that good with d
 <img align="left" alt="Esfoliante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=esfoliante&show_icons=true&hide_border=false&count_private=true" />
 
 
-<img  style="margin-left: 20px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esfoliante&layout=compact" />
+<img  style="margin-top: 20px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esfoliante&layout=compact" />
