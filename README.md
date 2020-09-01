@@ -6,7 +6,7 @@ If you are new here you might as well stay for a little search on my GitHub acco
 I'm a teenager and a passionate self-taught backend and mobile developer from Portugal.
 I would love to do something cute for my portfolio but I am not that good with design.
 
-- 🚀 I’m currently working on Charlie (a personal assistant)
+- 🚀 I’m currently working on Meet (a Flutter app)
 - 📚 I’m currently learning Typescript (Deno) and MongoDB
 - 💙 My favorite technology is Flutter
 - 💬 Ask me about anything on my [Telegram](https://t.me/esfoliante)
