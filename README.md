@@ -6,8 +6,8 @@ If you are new here you might as well stay for a little search on my GitHub acco
 I'm a teenager and a passionate self-taught backend and mobile developer from Portugal.
 I would love to do something cute for my portfolio but I am not that good with design.
 
-- 🚀 I’m currently working on Meet (a Flutter app)
-- 📚 I’m currently learning Typescript (Deno) and MongoDB
+- 🚀 I’m currently working on DvOS (an operating system)
+- 📚 I’m currently learning Operating Systems' (Kernel) development and C
 - 💙 My favorite technology is Flutter
 - 💬 Ask me about anything on my [Telegram](https://t.me/esfoliante)
 - ⚡️ Fun fact: I started working at 16
@@ -19,4 +19,4 @@ These don't show how often I work because I work mainly on repositories in other
 <img align="left" alt="Esfoliante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=esfoliante&show_icons=true&hide_border=false&count_private=true" />
 
 
-<img  style="margin-top: 20px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esfoliante&layout=compact" />
+<img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esfoliante&layout=compact" />
