@@ -14,7 +14,7 @@ I would love to do something cute for my portfolio but I am not that good with d
 
 <h3 style="color: #5094F0;">These are my GitHub Stats 👀</h3>
 
-These don't show how often I work because I work mainly on repositories in other servers and also don't show the language in which I mainly code, which is Dart.
+These stats don't show how often I work because I work mainly on repositories in other servers and also don't show the language I mainly code use, which is Dart.
 
 <img align="left" alt="Esfoliante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=esfoliante&show_icons=true&hide_border=false&count_private=true" />
 
