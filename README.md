@@ -19,4 +19,10 @@ These stats don't show how often I work because I work mainly on repositories in
 <img align="left" alt="Esfoliante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=esfoliante&show_icons=true&hide_border=false&count_private=true" />
 
 
-<img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esfoliante&layout=compact" />
+<img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esfoliante&layout=compact" /><br/>
+
+
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esfoliante" alt="Miguel Ferreira" /></a> </p>
