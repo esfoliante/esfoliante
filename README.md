@@ -6,15 +6,15 @@ If you are new here you might as well stay for a little search on my GitHub acco
 I'm a teenager and a passionate self-taught backend and mobile developer from Portugal.
 I would love to do something cute for my portfolio but I am not that good with design.
 
-- 🚀 I’m currently working on Days, a school managnment system
+- 🚀 I’m currently working on some projects for Avogg
 - 📚 I’m currently learning how to develop test driven code with node.js
-- 💙 My favorite technology is Flutter
+- 🧡 My favorite technology is Laravel
 - 💬 Ask me about anything on my [Telegram](https://t.me/esfoliante)
 - ⚡️ Fun fact: I started working at 16
 
 <h3 style="color: #5094F0;">These are my GitHub Stats 👀</h3>
 
-These stats don't show how often I work because I work mainly on repositories in other servers and also don't show the language I mainly code use, which is Dart.
+These stats don't show how often I work because I work mainly on repositories in other servers and also don't show the technology I usually work with, which is Laravel.
 
 <img align="left" alt="Esfoliante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=esfoliante&show_icons=true&hide_border=false&count_private=true" />
 
